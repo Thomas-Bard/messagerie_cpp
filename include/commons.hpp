@@ -7,6 +7,7 @@
 #include <sys/socket.h>
 #include <stdint.h>
 #include <thread>
+#include <string.h>
 
 // FTXUI Includes
 
